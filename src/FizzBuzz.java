@@ -1,6 +1,3 @@
-/**
- * Solve the FizzBuzz challenge.
- */
 class FizzBuzz
 {
 
